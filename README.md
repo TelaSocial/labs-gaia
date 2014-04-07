@@ -1,6 +1,6 @@
 ## Developer Wanted
 
-This project is looking for a Web Developer with experience in HTML5 Web Apps and relative experience into hacking Gaia, the main web interface in Firefox OS. Canditate will work with other Gaia/Web Developers and will be responsible for the following actions: 
+This project is looking for a Web Developer with experience in HTML5 Web Apps and relative experience into hacking Gaia, the main web interface in Firefox OS. Candidate will work with other Gaia/Web Developers and will be responsible for the following actions: 
 
 * Kiosk Web App - Initial analysis to understand the Gaia architecture and what is the right place to reside an app that works in full screen and is managed by external web services. Understanding of general Gaia security model for Web apps. 
 * Remote Control - Tests - Analysis and hack into Gaia internals, or partly Gonk, to achieve execution of Web apps as a result of a remote control process. 
@@ -18,7 +18,7 @@ This project will result in a final assesment to check the level of productions 
 The initial team is: 
 
 * You 
-* Marcio Galli - developer which is also founder of Tela Social - a social-aware dashboard kiosk project based in Gecko. The project goal is to create solutions to improve UX of apps aiming a wider reach beyond desktop and mobile, such as to reach out to Tablets, WebTVs, and more. Prior to Tela Social, Marcio worked in Mozilla Minimo project and the Mozilla Chromeless Project, as part of Mozilla labs. 
+* Marcio Galli - developer who is also founder of Tela Social - a social-aware dashboard kiosk project based in Gecko. The project goal is to create solutions to improve UX of apps aiming a wider reach beyond desktop and mobile, such as to reach out to Tablets, WebTVs, and more. Prior to Tela Social, Marcio worked in Mozilla Minimo project and the Mozilla Chromeless Project, as part of Mozilla labs. 
  
 ## Examples of deliverables: 
 
