@@ -11,14 +11,14 @@ The development and documentation will be available in the open and the develope
 * Example app launching a Kiosk-style App
 ## Final assesment 
 
-This project will result in a final assesment to check the level of productions towards the Gecko contribution and aiming support from/to the Mozilla project. 
+This project will result in a final assesment to check the level of productions towards the Mozilla/Gecko contribution and aiming support from/to the Mozilla project. 
 
 ## Team
 
 The initial team is: 
 
 * You 
-* Marcio Galli - developer which is also founder of Tela Social - a social-aware dashboard kiosk project based in Gecko. The project goal is to create solutions to improve UX of apps aiming a wider reach beyong desktop and modile, such as to reach out to Tablets and WebTVs, etc. Prior to Tela Social, marcio working in Mozilla Minimo project and the Mozilla Chromeless Project, as part of Mozilla labs. 
+* Marcio Galli - developer which is also founder of Tela Social - a social-aware dashboard kiosk project based in Gecko. The project goal is to create solutions to improve UX of apps aiming a wider reach beyond desktop and mobile, such as to reach out to Tablets, WebTVs, and more. Prior to Tela Social, Marcio worked in Mozilla Minimo project and the Mozilla Chromeless Project, as part of Mozilla labs. 
  
 ## Examples of deliverables: 
 
@@ -29,8 +29,8 @@ The initial team is:
 
 ## Job work related
 
-* The team might tests provided solutions in the APC.io.
-* Remote friendly.
-* Preferred from Porto Alegre area, but accepting region.
+* The team might test provided solutions in our APC.io.
+* The team is mostly remote.
+* Preferred from Porto Alegre area, but accept from virtually any region.
 * Under a short-team contract, or internship. 
 
